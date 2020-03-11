@@ -1,0 +1,3 @@
+TAG="0.0.1.v20200310"
+IMAGE="aldurni"
+IMAGE_TAG=""${IMAGE}":"${TAG}""
