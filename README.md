@@ -19,7 +19,7 @@ Welcome to the Aldurni project. This image is part of the [Drako](https://github
   * Configuration and packages: 
     * In this context Aldurni adds a public key and installs Apache Maven.  
   * Clean up. 
-    * * Deleted: documentation, cache, and logs generated in the Configuration and packages context.
+    * Deleted: documentation, cache, and logs generated in the Configuration and packages context.
 ### 2. Common operations.
 * At the root directory you will find the following directories.
   * configuration:
