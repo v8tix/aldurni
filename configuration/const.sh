@@ -1,3 +1,3 @@
-TAG="0.0.1.v20200310"
+TAG="0.0.2.v20200324"
 IMAGE="aldurni"
 IMAGE_TAG=""${IMAGE}":"${TAG}""
